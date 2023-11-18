@@ -11,5 +11,3 @@ class MyList
     @list.each { |element| block.call(element) }
   end
 end
-
-
